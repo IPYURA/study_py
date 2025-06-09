@@ -12,7 +12,7 @@ user_input = input('사용자 입력: ')
 #     print(second_letter)
 #     print(rest_letter)
 
-def practice():
+def practice(text):
     first_letter = text[0:1]
     second_letter = text[2:3]
     rest_letter = text[-3:]
